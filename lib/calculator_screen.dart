@@ -77,7 +77,7 @@ class Calculator extends ConsumerWidget {
                 ),
               ),
               Expanded(
-                flex: 1,
+                flex: 2,
                 child: Column(
                   children: [
                     Row(
